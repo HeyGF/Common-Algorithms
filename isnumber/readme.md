@@ -15,4 +15,7 @@ LeetCode上的题目。
 
 网上的一种解法：http://www.it610.com/article/5417071.htm
 
-也可以使用状态机的思路。
+也可以使用状态机的思路，上传的代码即状态机思路：
+
+![FSM](https://github.com/GaofengDong/Common-Algorithms/raw/master/isnumber/FSM.jpg)
+
